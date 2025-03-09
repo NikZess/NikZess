@@ -8,7 +8,7 @@ Hi, I'm 14 years old at the moment. My journey began with self-study of the Pyth
 
 * 🌍  I'm based in Kovrov
 * ✉️  You can contact me at [dimsmir10@gmail.com](mailto:dimsmir10@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  Now I'm learning JavaScript and creating a Python project.
 
 ### My Skills
 
