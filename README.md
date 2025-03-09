@@ -1,4 +1,4 @@
-Hi 👋 My name is Dmitriy Smirnov
+Hi 👋 My name is Dmitriy
 ================================
 
 Beginner Web Developer
