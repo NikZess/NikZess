@@ -1,7 +1,7 @@
 Hi 👋 My name is Dmitriy
 ================================
 
-Beginner Web Developer
+Beginner Backend Web Developer
 ----------------------
 
 Hi, I'm 14 years old at the moment. My journey began with self-study of the Python programming language. I'm very passionate about programming. Over the course of my career, I have completed 2 annual courses: development in c# and Unity, as well as a course in Python. I'm currently learning JavaScript and my dream is to become a good developer in the future.
